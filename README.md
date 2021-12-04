@@ -1,3 +1,3 @@
 # FibonacciSequence
-You can run the cod eby using command python Fibonacci.py
-It will ask for input which refers to the number of items in Fibonacci to be displayed.
+You can run the code by using command python Fibonacci.py
+And tests using python FibonacciTest.py

@@ -21,4 +21,4 @@ def getFibonacci(input):
         return result
     else: print("Number must be greater than 0")       
 
-finalresult = getFibonacci(0)
+finalresult = getFibonacci(8)
